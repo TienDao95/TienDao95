@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TienDao95
+- 👋 Hi, I’m Tien Dao
 - 👀 I’m interested in Web design/ Mobile application development
 - 🌱 I’m currently learning Mobile Application Development at Fanshawe college
 - 💞️ I’m looking to collaborate on Web/Mobile Application Design/Development Team
